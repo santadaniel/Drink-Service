@@ -1,0 +1,12 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: drink
+  data:
+    mongodb:
+      host: localhost
+      port: 27018
+      database: drink
+
+
